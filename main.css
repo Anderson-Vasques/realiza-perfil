@@ -15,6 +15,9 @@
     line-height: 20px;
     font-weight: 300;
   }
+  body.alan {
+      background-color: #5b90e5;
+  }
   h1 {
     margin-top: 20px;
     margin-bottom: 0px;
@@ -83,6 +86,16 @@
     margin-left: auto;
     border-radius: 200px;
     background-image: url(http://uploads.webflow.com/55d73a4878f2d6471c4b23bc/55d73ae1187000491c6825dd_Screen%20Shot%202015-08-21%20at%2016.27.13.png);
+  }
+  .profile-image.ada {
+      background-image: url(https://metrouk2.files.wordpress.com/2013/10/ay95895977ada-lovelace-engl1.jpg?w=748&h=814&crop=1);
+      background-size: cover;
+      background-position: center center;
+  }
+  .profile-image.alan {
+      background-image: url(https://flavorwire.files.wordpress.com/2014/11/alan-turing.jpg);
+      background-size: cover;
+      background-position: center center;
   }
   .centre {
     position: relative;
